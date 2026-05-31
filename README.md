@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WPoets Full Stack Developer Test
 
 Production-ready PHP 8 and MySQL implementation of the WPoets Full Stack Developer Test. The project includes a responsive frontend that mirrors the supplied desktop and mobile references, plus an admin panel for managing categories and slides with full CRUD operations.
@@ -129,3 +130,6 @@ It also includes:
 - Responsive styles in [assets/css/style.css](/d:/project/full-stack-test-master/full-stack-test-master/assets/css/style.css)
 - Admin CRUD flow in [admin/categories.php](/d:/project/full-stack-test-master/full-stack-test-master/admin/categories.php) and [admin/slides.php](/d:/project/full-stack-test-master/full-stack-test-master/admin/slides.php)
 - Database schema in [sql/wpoets_full_stack.sql](/d:/project/full-stack-test-master/full-stack-test-master/sql/wpoets_full_stack.sql)
+=======
+# full-stack-test
+>>>>>>> 7b0e7d1825d8b2bb0ccdaa7ca81c5c64cf67d154
